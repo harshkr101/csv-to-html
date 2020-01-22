@@ -1,0 +1,28 @@
+.container{
+    width: 100%;
+    text-align: center;
+}
+input[type=text] {
+    width: 80%;
+    height: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    margin-top: 5%;
+    border: none;
+}
+#title{
+    font-size: 50px;
+}
+#subtitle{
+    font-size: 40px;
+}
+#article{
+    margin-top: 5%;
+    font-size: 20px;
+    border: none;
+    
+}
+input[type=submit]{
+    border-radius: 2px;
+    text-align: left;
+}
